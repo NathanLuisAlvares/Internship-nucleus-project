@@ -3,7 +3,7 @@ Download and extract the RAR file. And then install the necessary dependencies a
 
 Link: https://drive.google.com/drive/folders/1ySTr6pYSBtS_uDJgmC0Hyvh_7QPbhWBp?usp=sharing
 
-## Screenhots
+## Screenshots
 Starting page:
 ![image](https://user-images.githubusercontent.com/67680115/215352028-ee836367-80fb-4f49-89f7-ec8867680d26.png)
 
