@@ -1,4 +1,11 @@
-# Quasar App (internproject)
+# GDrive link with the intern project folder.
+Download and extract the RAR file. And then install the necessary dependencies as given below the screenshots.
+
+Link: https://drive.google.com/drive/folders/1ySTr6pYSBtS_uDJgmC0Hyvh_7QPbhWBp?usp=sharing
+
+## Screenhots
+
+## Quasar App (internproject)
 
 A Quasar Project
 
